@@ -6,3 +6,5 @@ https://cl.ly/0d3k3H420P0S
 
 Code needs to be cleaned up, but we were under the gun time wise when we got to programming the actual patterns in the Well. The Well itself used two mirrors (infinity mirror effect) and 600 Dotstar LEDs that made 7 strips around the well.
 
+The library used to run the LEDs is here: https://github.com/matl33t/apa102_rbpi. Thanks to @matl33t for creating it!
+
